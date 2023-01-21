@@ -1,0 +1,17 @@
+p::before{
+    content:"hello";
+    color:green;
+}
+
+h4::after{
+    background-color: rgb(174, 65, 65);
+    content:"how";
+}
+
+input.text:focus{
+    background-color: rgb(122, 122, 30);
+}
+
+input.btn:hover{
+    background-color: aqua;
+}
