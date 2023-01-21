@@ -1,0 +1,10 @@
+body{
+   background-color:#002020;
+    background-image: url('sanam-kapoor.jpg'),url('pepar.jpg');
+    background-blend-mode:multiply;
+    background-repeat:no-repeat no-repeat;
+    background-attachment:fixed;
+    background-size: 500px, 100%;
+    background-position: center bottom;
+    color: white;
+}
