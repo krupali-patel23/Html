@@ -1,6 +1,6 @@
 p::before{
     content:"hello";
-    color:green;
+    color:rgb(85, 154, 85);
 }
 
 h4::after{
